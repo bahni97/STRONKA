@@ -1,0 +1,70 @@
+body
+		{
+			background-color:#0099FF;
+		}
+#container
+		{
+			background-color:#FFFFCC;
+
+			width: 1000px;
+			height: 1000px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+#logo
+		{
+			background-color:#6699CC;
+			position:absolute;
+			border:8px solid;
+			border-radius: 44px;
+			height:200px;
+			width:984px;
+			text-align:center;
+			display: flex;
+			flex-wrap:wrap;
+			flex-direction:row;
+			align-items: center;
+			justify-content: center;
+
+
+		}
+p
+
+		{
+			font-size:100px;
+			font-family:Verdana;
+			align-items:middle;
+			margin-top:0px;
+			margin-bottom:0px;
+			margin-right:0px;
+			margin-left:0px;
+
+		}
+#spacja
+		{
+			width:1000px;
+		}
+#tlo
+		{
+			background-color:#0099FF;
+			height:220px;
+			width:1000px;
+		}
+#cialo
+		{
+			border:0px solid;
+			width:1000px;
+			height:800px;
+		}
+#srodek
+{
+	position:absolute;
+	margin-bottom:200px;
+	margin-left:230px;
+	margin-right:250px;
+	margin-top:190px;
+	display:flex;
+	text-wrap:wrap;
+	direction: row;
+
+}
