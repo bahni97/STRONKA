@@ -1,6 +1,10 @@
-body
-		{
+#page1
+ 		{
 			background-color:#3366FF;
+		}
+#page2
+		{
+			background-color: green;
 		}
 #logo
 		{
@@ -14,13 +18,71 @@ body
 			text-align:center;
 			margin-bottom: 15px;
 		}
-#container
+#strzalka
 		{
-			background-color:blue;
+		position:absolute;
+		margin-left: 250px;
+		}
+#menuhor
+		{
+			width: 1002px;
+			height: 100px;
+			background-color: black;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: center;
+			margin-bottom: 2px;
+		}
+#menuhor  td
+		{
+			width: 200px;
+			font-weight: bold;
+			font-size: 25px;
+			border: 2px solid black;
+		}
+#container1
+		{
 			width: 1000px;
 		  height: 800px;
 			margin-left: auto;
 			margin-right: auto;
+		}
+#content
+		{
+			float: left;
+			width: 1000px;
+			height: 1000px;
+			background-color: #33FF33;
+			border: 1px solid black;
+		}
+#menubok
+		{
+			float: left;
+			border: 1px solid black;
+			margin-right: 5px;
+			margin-top: 10px;
+			float: left;
+			background-color: white;
+			width: 298px;
+			height: 980px;
+		}
+#container2
+		{
+			width: 1613px;
+			height: 1000px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+#reklama
+		{
+			float: left;
+			border: 1px solid black;
+			margin-left: 5px;
+			margin-top: 10px;
+			float: left;
+			background-color: white;
+			width: 298px;
+			height: 980px;
 		}
 p
 
