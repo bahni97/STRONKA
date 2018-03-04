@@ -1,6 +1,6 @@
 body
 		{
-			background-color:gray;
+			background-color:#3366FF;
 		}
 #logo
 		{
@@ -32,6 +32,10 @@ p
 			margin-right:0px;
 			margin-left:0px;
 
+		}
+#container p
+		{
+			font-size: 40px;
 		}
 #srodek
 		{
